@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+
+#quote-box {
+    color: white;
+    background-color: blue;
+    width: 400px;
+    height: 400px;
+    margin: 300px auto;
+}
+
+#quote-box h1 {
+    padding: 0;
+    margin: 0;
+    padding: 50%; 
+    /* margin: 50% 50%; */
+}
